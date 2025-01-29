@@ -2,4 +2,8 @@
 
 # Your Name
 
+Samuel Styer
+
 # Your Github username
+
+FrickenDied
