@@ -58,7 +58,7 @@ It is now pitch dark in the cave, you can't see where you are going and can't se
 + [Stumble around] -> deep_cave2
 
 == deep_cave2 ==
-You keep wandering around aimlessly, running into walls and never seing a trace of light. {You think of the sunrise, how you wish you could feel its warmth right now|You think of the daylight, and how you'd give anything to see again|You think of the sunset, and how beautiful it must look dancing across the ocean waves}
+You keep wandering around aimlessly, running into walls and never seeing a trace of light. {You think of the sunrise, how you wish you could feel its warmth right now|You think of the daylight, and how you'd give anything to see again|You think of the sunset, and how beautiful it must look dancing across the ocean waves}
 
 + [Wait] -> deep_cave2
 
